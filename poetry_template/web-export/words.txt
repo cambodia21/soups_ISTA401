@@ -1,0 +1,3 @@
+ADJ:quick,brown,agile
+NOUN:fox,dog,person
+VERB:jump,bark
